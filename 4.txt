@@ -1,0 +1,8 @@
+4) 
+Bom, primeiro eu ligaria um interruptor e deixaria um tempo ligado 
+até esquentar bastante a lâmpada, depois desligaria o primeiro e ligaria 
+o segundo interruptor e o deixaria aquecendo a lâmpada, depois o desligaria 
+e escolheria uma das três salas para verificar as lâmpadas a mais quente 
+seria a segunda, a menos quente a primeira e a fria a terceira, repetiria 
+o processo para as duas que sobrariam e assim eu saberia qual interruptor 
+controla cada lâmpada.
