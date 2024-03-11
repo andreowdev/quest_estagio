@@ -1,5 +1,9 @@
-4) 
-Bom, primeiro eu ligaria um interruptor e deixaria um tempo ligado 
+4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+4)
+R= Bom, primeiro eu ligaria um interruptor e deixaria um tempo ligado 
 até esquentar bastante a lâmpada, depois desligaria o primeiro e ligaria 
 o segundo interruptor e o deixaria aquecendo a lâmpada, depois o desligaria 
 e escolheria uma das três salas para verificar as lâmpadas a mais quente 
